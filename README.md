@@ -1,0 +1,1 @@
+## This is an Algorithm that checks if a word is a palindrome, if the word can be read from the right to the left or left to the right. 
